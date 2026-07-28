@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Jeffrey8835.github.io/snippets-28z43r/sitemap.xml
